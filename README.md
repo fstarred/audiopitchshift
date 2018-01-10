@@ -1,3 +1,5 @@
+<div data-type="ad" data-publisher="fstarred.github.io" data-format="728x90" data-zone="audiopitchshift" data-tags="music%2caudio%2cmedia%2cplayer"></div> 
+
 # Audio Pitch &amp; Shift
 Audio Pitch &amp; Shift is a complete audio player intended to be useful for musicians who wants to slow down or change the pitch of the music
 
